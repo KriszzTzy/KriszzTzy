@@ -1,4 +1,4 @@
-- 👋 Hai, saya @KriszzTzy
+## - 👋 Hai, saya @KriszzTzy ##
 - 👀 saya tertarik dengan: pemrograman/coding
 - 🌱 Saya sedang belajar: html, python, php & JavaScript 
 - 💞️ Saya ingin berkolaborasi di Cyber Furina Team ( CFT )
