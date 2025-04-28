@@ -1,0 +1,163 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: #0a0f2c;
+  color: #fff;
+  overflow-x: hidden;
+}
+
+/* Splash */
+#splash {
+  background: #000 url('https://files.catbox.moe/27wo8b.mp4') no-repeat center;
+  background-size: cover;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #00c6fb;
+}
+
+#splash h1 {
+  font-size: 2em;
+  animation: blink 1s infinite;
+}
+
+@keyframes blink {
+  0%, 100% {opacity: 1;}
+  50% {opacity: 0;}
+}
+  
+nav {
+  width: 100%;
+  padding: 10px 30px;
+  position: fixed;
+  top: 0;
+  z-index: 10;
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(10px);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav h2 {
+  color: #00c6fb;
+}
+
+nav a {
+  color: #ccc;
+  margin: 0 10px;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+nav a:hover {
+  color: #00c6fb;
+}
+
+header {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: url('https://files.catbox.moe/27wo8b.mp4') no-repeat center/cover;
+  position: relative;
+}
+
+header::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0,0,0,0.6);
+}
+
+header .content {
+  position: relative;
+  z-index: 1;
+}
+
+header img {
+  width: 120px;
+  border-radius: 50%;
+  border: 4px solid #fff;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  font-size: 2.5em;
+  margin: 0;
+}
+
+header h2 {
+  margin-top: 10px;
+  color: #00c6fb;
+}
+
+.container {
+  padding: 60px 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  opacity: 0;
+  transform: translateY(100px);
+  transition: all 0.8s ease;
+}
+
+.container.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.card {
+  background: #12163e;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 20px;
+  width: 300px;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.7);
+  text-align: center;
+  transition: 0.4s;
+}
+
+.card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.9);
+}
+
+.card h3 {
+  color: #00c6fb;
+}
+
+.card p {
+  color: #bbb;
+}
+
+.btn {
+  margin-top: 15px;
+  padding: 10px 25px;
+  background: #00c6fb;
+  color: #000;
+  border-radius: 50px;
+  text-decoration: none;
+  display: inline-block;
+  font-weight: bold;
+}
+
+footer {
+  text-align: center;
+  margin: 30px;
+  font-size: 0.8em;
+  opacity: 0.7;
+}
