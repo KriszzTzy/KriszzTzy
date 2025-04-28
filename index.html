@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>KriszzTzy - Open Service V4</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav>
+    <h2>KriszzTzy | Developer.</h2>
+  </nav>
+  <header>
+    <div class="content">
+      <img src="https://files.catbox.moe/0nq0s0.jpg" alt="Foto Profil">
+      <h1><span id="type"></span></h1>
+      <h2>Saya adalah seorang programmer yang berfokus pada pengembangan web dan aplikasi. Saya memiliki keterampilan dalam bahasa pemrograman seperti HTML, CSS, JavaScript, dan banyak lagi.</h2>
+      <h2>Saya menyediakan produk dan jasa di bawah ini</h2>
+    </div>
+  </header>
+  <div class="container" id="produk">
+    <div class="card">
+      <h3>Panel & VPS</h3>
+      <p>Panel Pterodactyl, Admin Panel, Ressler, VPS Ready!</p>
+      <a href="https://wa.me/628xxxxxxx" class="btn">Order</a>
+    </div>
+    <div class="card">
+      <h3>Script WhatsApp</h3>
+      <p>Bot MD, Multi Device, Script Update & Bug Fix Ready.</p>
+      <a href="https://wa.me/628xxxxxxx" class="btn">Order</a>
+    </div>
+    <div class="card">
+      <h3>Jasa Create</h3>
+      <p>Create Script, Create Nokos Tools, Install Themes Panel.</p>
+      <a href="https://wa.me/628xxxxxxx" class="btn">Order</a>
+    </div>
+    <div class="card">
+      <h3>Kelas Murid</h3>
+      <p>Murid Nokos, Script Class, Bug Hunter Class, dll.</p>
+      <a href="https://wa.me/628xxxxxxx" class="btn">Order</a>
+    </div>
+  </div>
+  <footer id="kontak">
+    <p> 2024 KriszzTzy. All rights reserved.</p>
+  </footer>
+
+  <!-- Typing animation -->
+  <script>
+    const txt = ["Hi, I'm KriszzTzy", "I am a Famous Developer."];
+    let count = 0;
+    let index = 0;
+    let currentTxt = '';
+    let letter = '';
+    (function type(){
+      if (count === txt.length) {
+        count = 0;
+      }
+      currentTxt = txt[count];
+      letter = currentTxt.slice(0, ++index);
+      document.getElementById('type').textContent = letter;
+      if(letter.length === currentTxt.length){
+        count++;
+        index = 0;
+        setTimeout(type, 1000);
+      } else {
+        setTimeout(type, 100);
+      }
+    }());
+  </script>
+
+  <!-- Scroll Animation -->
+  <script>
+    window.addEventListener('scroll', () => {
+      const container = document.querySelector('.container');
+      const triggerBottom = window.innerHeight / 1.2;
+      const containerTop = container.getBoundingClientRect().top;
+      if(containerTop < triggerBottom) {
+        container.classList.add('show');
+      }
+    });
+    window.onload = () => {
+      setTimeout(() => {
+        document.getElementById('splash').style.display = 'none';
+      }, 2500);
+    };
+  </script>
+</body>
+</html>
