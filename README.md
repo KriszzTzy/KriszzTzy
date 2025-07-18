@@ -4,7 +4,7 @@
 ### About Me :
 
 <p align="center">
-  <img src="https://media.tenor.com/QRL_d1DsJ7AAAAAM/momoi-blue-archive.gif" />
+  <img src="https://raw.githubusercontent.com/KriszzTzy/baru/main/uploads/1752858128321.jpeg" />
 </p>
 
 <div class="text-lg leading-relaxed space-y-3">
