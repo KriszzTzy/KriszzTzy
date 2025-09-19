@@ -4,7 +4,7 @@
 ### About Me :
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KriszzTzy/baru/main/uploads/1752858128321.jpeg" />
+  <img src="https://raw.githubusercontent.com/KriszzTzy/Database/main/uploads/1758305062261.jpeg" />
 </p>
 
 <div class="text-lg leading-relaxed space-y-3">
