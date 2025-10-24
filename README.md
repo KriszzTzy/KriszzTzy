@@ -4,7 +4,7 @@
 ### About Me :
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KriszzTzy/Database/main/uploads/1758305062261.jpeg" />
+  <img src="https://raw.githubusercontent.com/KriszzTzy/Database/main/uploads/1761322885268.jpeg" />
 </p>
 
 <div class="text-lg leading-relaxed space-y-3">
@@ -27,8 +27,7 @@
 </div>
 
 ### My social media :
-<li><a href="https://t.me/KriszzTzy" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" class="rounded-md"></a></li>
-                    <li><a href="https://wa.me/6285730347535" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Contact" class="rounded-md"></a></li>
+<li><a href="https://t.me/Kriszzyy" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" class="rounded-md"></a></li>
                     <li><a href="https://www.instagram.com/kriszztzy_offc/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" class="rounded-md"></a></li>
                     <li><a href="https://github.com/KriszzTzy" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" class="rounded-md"></a></li>
 
