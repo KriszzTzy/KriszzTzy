@@ -2,14 +2,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hello+I'm+Kriszz+Hayanasi;+Web+Developer;" />
 </h1>
 
-### About Me :
+### 🍃 About Me:
 <div class="text-lg leading-relaxed space-y-3">
     <p>Hi, my name is <strong class="text-indigo-600">Kriszz Hayanasi, I'm from Indonesia</strong>.</p>
 </div>
 
 <p align="center">
   <a href="https://github.com/KriszzTzy">
-    <img src="https://komarev.com/ghpvc/?username=KriszzTzy&color=blue" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=AyGemuy&color=red" alt="Profile views"/>
   </a>
   <a href="https://github.com/KriszzTzy?tab=followers">
     <img src="https://img.shields.io/github/followers/KriszzTzy?label=Follow&style=social" alt="GitHub followers"/>
@@ -25,12 +25,14 @@
   <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KriszzTzy&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-### My social media :
-<li><a href="https://t.me/Kriszzyy" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" class="rounded-md"></a></li>
-                    <li><a href="https://www.instagram.com/kriszztzy_offc/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" class="rounded-md"></a></li>
-                    <li><a href="https://github.com/KriszzTzy" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" class="rounded-md"></a></li>
+## 🌐 Socmed
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KriszzTzy) [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-4CAF50?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://whatsapp.com/channel/0029VaRI1OB2P59cTdJKZh3q) [![Telegram Channel](https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KzXCommunity) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kriszztzy_offc) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/kriszzyy) [![Website](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=wordpress&logoColor=white)](https://kriszzyy.xyz)  
 
+---
 
+### 📞 Contact Me
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-4CAF50?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/255677748235) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://kriszzyy.t.me) [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=kriszztzyofficial@gmail.com) 
 
+---
