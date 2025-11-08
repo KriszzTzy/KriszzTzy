@@ -1,17 +1,10 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=9000&lines=Hello+I'm+Kriszz+Hayanasi;+I'm+a+lazy+person;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hello+I'm+Kriszz+Hayanasi;+Web+Developer;" />
 </h1>
+
 ### About Me :
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KriszzTzy/Database/main/uploads/1761322885268.jpeg" />
-</p>
-
 <div class="text-lg leading-relaxed space-y-3">
-    <p>Hi, my name is <strong class="text-indigo-600">Kriszz Hayanasi</strong>.</p>
-    <p>I'm from <strong class="text-indigo-600">Indonesia</strong>.</p>
-    <p>I'm often lazy, but always <strong class="text-indigo-600">learning</strong>!</p>
-    <p>My date of birth is Sep 18, 2009.</p>
+    <p>Hi, my name is <strong class="text-indigo-600">Kriszz Hayanasi, I'm from Indonesia</strong>.</p>
 </div>
 
 <p align="center">
