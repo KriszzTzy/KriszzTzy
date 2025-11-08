@@ -8,7 +8,13 @@
 </div>
 
 <p align="center">
-  <a href="[https://github.com/KriszzTzy](https://github.com/KriszzTzy)"> <img  alt="Kriszz Hayanasi GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/KriszzTzy?cardType=github&theme=github-dark&preferLogin=true" />  </a>
+  <a href="https://github.com/KriszzTzy">
+    <img src="https://komarev.com/ghpvc/?username=KriszzTzy&color=blue" alt="Profile views"/>
+  </a>
+  <a href="https://github.com/KriszzTzy?tab=followers">
+    <img src="https://img.shields.io/github/followers/KriszzTzy?label=Follow&style=social" alt="GitHub followers"/>
+  </a>
+</p>
 
 
 <h2 align="center">📊 Stats</h2>
