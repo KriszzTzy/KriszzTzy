@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/KriszzTzy">
-    <img src="https://komarev.com/ghpvc/?username=AyGemuy&color=red" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=KriszzTzy&color=red" alt="Profile views"/>
   </a>
   <a href="https://github.com/KriszzTzy?tab=followers">
     <img src="https://img.shields.io/github/followers/KriszzTzy?label=Follow&style=social" alt="GitHub followers"/>
