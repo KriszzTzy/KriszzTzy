@@ -1,4 +1,7 @@
 <h1 align="center">
+    <a><img src="https://i.ibb.co/7Kk6XSg/Rainbow.gif" width="100%">
+
+<br>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hello+I'm+Kriszz+Hayanasi;+Web+Developer;" />
 </h1>
 
