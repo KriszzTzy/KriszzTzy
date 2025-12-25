@@ -2,7 +2,7 @@
     <a><img src="https://i.ibb.co/7Kk6XSg/Rainbow.gif" width="100%">
 
 <br>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hello+I'm+Kriszz+Hayanasi;+Web+Developer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+I'm+Kriszz+Hayanasi;+Web+Developer;" />
 </h1>
 
 ### 🍃 About Me:
@@ -39,3 +39,5 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-4CAF50?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/255677748235) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://kriszzyy.t.me) [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=kriszztzyofficial@gmail.com) 
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="transform: rotate(180deg);">
