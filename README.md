@@ -19,6 +19,7 @@
   </a>
 </p>
 
+<img src="https://api.kriszzyy.xyz/maker/faketweet?user=kriszzy&name=Kriszz+Hayanasi&msg=Kata+orang+teh,+yang+penting+semangat.&pp=https://raw.githubusercontent.com/KriszzTzy/Database/main/uploads/1766635375587.jpeg" alt="gatau"/>
 
 <h2 align="center">📊 Stats</h2>
   <div align="center">
