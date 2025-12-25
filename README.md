@@ -2,7 +2,7 @@
     <a><img src="https://i.ibb.co/7Kk6XSg/Rainbow.gif" width="100%">
 
 <br>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+I'm+Kriszz+Hayanasi;+Web+Developer;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=6353F7&width=500&lines=Hello+I'm+Kriszz+Hayanasi.;Web+Developer;" />
 </h1>
 
 ### 🍃 About Me:
