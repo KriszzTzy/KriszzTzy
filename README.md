@@ -1,51 +1,130 @@
 <h1 align="center">
-    <a><img src="https://i.ibb.co/7Kk6XSg/Rainbow.gif" width="100%">
-
-<br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=6353F7&width=500&lines=Hello+I'm+Kriszz+Hayanasi.;Web+Developer;" />
+    <img src="https://i.ibb.co/7Kk6XSg/Rainbow.gif" width="100%">
 </h1>
 
-### 🍃 About Me:
-<div class="text-lg leading-relaxed space-y-3">
-    <p>Hi, my name is <strong class="text-indigo-600">Kriszz Hayanasi, I'm from Indonesia</strong>.</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=70&lines=I'm+Kriszzyy;Web+Developer+%7C+Tech+Enthusiast;Solving+Problems+%26+Building+Dreams" alt="Typing SVG" />
+  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=KriszzTzy&color=00FFFF&style=flat&label=PROFILE+VIEWS)
 </div>
 
-<p align="center">
-  <a href="https://github.com/KriszzTzy">
-    <img src="https://komarev.com/ghpvc/?username=KriszzTzy&color=red" alt="Profile views"/>
-  </a>
-  <a href="https://github.com/KriszzTzy?tab=followers">
-    <img src="https://img.shields.io/github/followers/KriszzTzy?label=Follow&style=social" alt="GitHub followers"/>
-  </a>
-</p>
-
-## Spotify Music :
-<p align="center">
-  <a href="https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
-
-> * 00:00 ━❍──────── 12:27 
-> * ↻ㅤㅤ⊲ㅤㅤⅡㅤㅤ⊳ㅤㅤ↺ㅤ
-
-------
-
-<img src="https://api.kriszzyy.xyz/maker/faketweet?user=KriszzTzy&name=Kriszz+Hayanasi&msg=Kata+orang+teh,+yang+penting+semangat.&pp=https://raw.githubusercontent.com/KriszzTzy/Database/main/uploads/1766635375587.jpeg" alt="gatau"/>
-
-<h2 align="center">📊 Stats</h2>
-  <div align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KriszzTzy&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=KriszzTzy&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-</div>
-
-## 🌐 Socmed
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KriszzTzy) [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-4CAF50?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://whatsapp.com/channel/0029VaRI1OB2P59cTdJKZh3q) [![Telegram Channel](https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KzXCommunity) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kriszztzy_offc) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/kriszzyy) [![Website](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=wordpress&logoColor=white)](https://kriszzyy.xyz)  
+<br />
 
 ---
 
-### 📞 Contact Me
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-4CAF50?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/255677748235) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://kriszzyy.t.me) [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=kriszztzyofficial@gmail.com) 
+## 🍃 About Me
+<div align="center">
+  <p>Hi, my name is <strong style="color:#00FFFF;">Kriszz Hayanasi</strong>, I'm from <strong>Indonesia</strong> 🇮🇩</p>
+  
+  <p>
+    <a href="https://github.com/KriszzTzy?tab=followers">
+      <img src="https://img.shields.io/github/followers/KriszzTzy?label=Follow&style=social&color=00FFFF" alt="GitHub followers"/>
+    </a>
+    <a href="https://github.com/KriszzTzy">
+      <img src="https://img.shields.io/github/stars/KriszzTzy?style=social&label=Stars" alt="GitHub stars"/>
+    </a>
+  </p>
+</div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="transform: rotate(180deg);">
+## 🎵 Spotify Now Playing
+<div align="center">
+  <a href="https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM" target="_blank">
+    <img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/>
+  </a>
+  
+  <br />
+  <small><em>00:00 ━❍──────── 12:27</em></small>
+  
+  <br />
+  <small><em>↻ㅤㅤ⊲ㅤㅤⅡㅤㅤ⊳ㅤㅤ↺</em></small>
+</div>
+
+<br />
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KriszzTzy&theme=dark&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="GitHub Streak" width="100%" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=KriszzTzy&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&ring_color=00FFFF" alt="GitHub Stats" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KriszzTzy&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages" width="100%" />
+      </td>
+      <td>
+        <img src="https://github-profile-trophy.vercel.app/?username=KriszzTzy&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophy" width="100%" />
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+<br />
+
+---
+
+## 🌐 Social Media
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KriszzTzy)
+[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaRI1OB2P59cTdJKZh3q)
+[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KzXCommunity)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kriszztzy_offc)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/kriszzyy)
+[![Website](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=wordpress&logoColor=white)](https://kriszzyy.xyz)
+
+</div>
+
+<br />
+
+---
+
+## 📞 Contact Me
+<div align="center">
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255677748235)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://kriszzyy.t.me)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kriszztzyofficial@gmail.com)
+
+</div>
+
+<br />
+
+---
+
+<div align="center">
+  
+  ## ✨ Technologies I Use
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  
+</div>
+
+<br />
+
+---
+
+<div align="center">
+  <h3>🚀 Thanks for visiting my profile!</h3>
+  <p>Have a great day! ✨</p>
+  
+  <br />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=80&section=footer&text=Keep+Coding!&fontSize=30&fontColor=FFFFFF&animation=twinkling" alt="Footer" />
+</div>
