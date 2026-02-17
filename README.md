@@ -4,8 +4,8 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=70&lines=I'm+Kriszzyy;Web+Developer+%7C+Tech+Enthusiast;Solving+Problems+%26+Building+Dreams" alt="Typing SVG" />
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=KriszzTzy&color=red&style=flat&label=PROFILE+VIEWS)
+    
+  ![Visitor Count](https://komarev.com/ghpvc/?username=KriszzTzy&color=blueviolet&style=plastic&label=PROFILE+VIEWS)
 </div>
 
 <br />
