@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=70&lines=I'm+Kriszzyy;Web+Developer+%7C+Tech+Enthusiast;Solving+Problems+%26+Building+Dreams" alt="Typing SVG" />
   
-  ![Visitor Count](https://komarev.com/ghpvc/?username=KriszzTzy&color=00FFFF&style=flat&label=PROFILE+VIEWS)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=KriszzTzy&color=red&style=flat&label=PROFILE+VIEWS)
 </div>
 
 <br />
@@ -78,7 +78,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KriszzTzy)
 [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaRI1OB2P59cTdJKZh3q)
-[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KzXCommunity)
+[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kzxcommunity)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kriszztzy_offc)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/kriszzyy)
 [![Website](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=wordpress&logoColor=white)](https://kriszzyy.xyz)
