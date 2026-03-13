@@ -10,7 +10,7 @@
     <img src="https://cdn.kriszzyy.xyz/2foK.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
-  ![Visitor Count](https://komarev.com/ghpvc/?username=KriszzTzy&color=blueviolet&style=plastic&label=PROFILE+VIEWS)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=KriszzTzy&color=blueviolet&style=plastic&label=PROFILE+VIEWS&abbreviated=true)
 </div>
 
 <br />
