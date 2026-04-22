@@ -7,7 +7,7 @@
 
 
 <p align="center">
-    <img src="https://cdn.kriszzyy.xyz/2foK.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://www.sylphiette.my.id/files/OGqg.jpeg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
   ![Visitor Count](https://komarev.com/ghpvc/?username=KriszzTzy&color=blueviolet&style=plastic&label=PROFILE+VIEWS&abbreviated=true)
